@@ -1,14 +1,17 @@
 /*
-Primeiro progrma escrito em c. O famoso hello world.
+Primeiro programa escrito em c. O famoso
+hello world.
 */
-//importação da biblioteca de entrada e saida padrão
+//importação da biblioteca de entrada e saída padrão
 #include <stdio.h>
 
-//Vamos criar a instrução principal para a execução do programa 
-int mains(){
-    //vamos usar o comando printf
-    //para escrever algo na tela 
-    printf("Olá Mundo!/nHello World/n");
+// Vamos criar a instrução principal para a execução do programa
+int main(){
+    //Vamos usar o comando printf 
+    //para escrever algo na tela
+    printf("Olá Mundo!\nHello World\n");
 
-    return 0;//Não há nada a retornar 
-}
+    return 0;//Não há nada a retornar
+
+
+} 
